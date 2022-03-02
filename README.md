@@ -1,53 +1,50 @@
 ## Hi there 👋 I'm [Manish Ranjan][website] 😀
 ![](https://visitor-badge.laobi.icu/badge?page_id=mandivson.mandivson) [![Github](https://img.shields.io/github/followers/mandivson?label=Followers&logo=Github)](https://github.com/mandivson)
 
-## :email: Find me on:
+<h3 align="center">A developer who loves to learn and create new things.
+
 <p align="center">
-   <a href="https://www.linkedin.com/in/manishranjan2606/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
-  <a href="https://www.codechef.com/users/manishranjan26" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/codechef.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
-   <a href="https://auth.geeksforgeeks.org/user/iam__manish/practice/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/geeksforgeeks.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
-  <a href="https://leetcode.com/iam__manish/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/leetcode.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
-   <a href="mailto:manishranjan2606@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a> 
+	<a href="https://git.io/typing-svg">
+		<img src="https://readme-typing-svg.herokuapp.com/?font=Hack&color=%23A020F0F1&https://readme-typing-svg.herokuapp.com?font=Hack&color=%23A020F0F1&size=25&center=true&vCenter=true&lines=Software+Developer;Competitive+Programmersize=25&center=true&vCenter=true&lines=Software+Developer;Competitive+Programmer;" />
+	</a>
 </p>
 
-<br />
-
-## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Library-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Backend-NodeJS-informational?style=flat&logo=node&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-</p>
-
-<br />
-
-## :trophy: My Github Stats:
-
-<!--
-![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=CharalambosIoannou&count_private=true&show_icons=true&theme=tokyonight)
-![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=CharalambosIoannou&hide=php&theme=tokyonight)
--->
-<div>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=mandivson&count_private=true&show_icons=true&theme=tokyonight">
-  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=mandivson&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight" />
-</a>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=mandivson&hide=css&theme=tokyonight">
-  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=mandivson&hide=css&theme=tokyonight&langs_count=5" />
-</a>
-</div>
-</p>
-
-<br />
-
-<!-- ## :1st_place_medal: Programming profiles:
 <p align="center">
-   <a href="https://www.codechef.com/users/manishranjan26" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/codechef.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
-   <a href="https://auth.geeksforgeeks.org/user/iam__manish/practice/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/geeksforgeeks.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
-  <a href="https://leetcode.com/iam__manish/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/leetcode.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
-</p> -->
+   <a href="https://www.linkedin.com/in/manishranjan2606/"> 
+      <img src="https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
+   <a href="mailto:manishranjan2606@gmail.com"> 
+      <img src="https://img.shields.io/badge/-Mail-EA4335?&style=for-the-badge&logo=Gmail&logoColor=white"></a> 
+   <a href="https://www.facebook.com/profile.php?id=100027307784074">
+		<img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white" />
+	</a>
+</p>
 
-[website]: https://www.linkedin.com/in/manishranjan2606/
-[linkedin]: https://www.linkedin.com/in/manishranjan2606/
-[mail]: mailto:manishranjan2606@gmail.com
+<br />
+
+<h3 align="center">Some Technologies, Languages, Framework, IDEs that I use</h3>
+	
+<p align="center">
+   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="c++" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="js" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="c" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/react_js%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="reactjs" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/Vscode-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="vscode" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />&nbsp;&nbsp;
+</p>
+<br />
+
+<p align="center">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandivson&layout=compact&theme=dracula&hide_border=true" />
+	<br />
+	<br />
+	<img src="https://github-readme-stats.vercel.app/api?username=mandivson&theme=dracula&hide_border=true" />
+</p>	
+	
+<p align="center">
+	<img src="https://activity-graph.herokuapp.com/graph?username=mandivson&theme=rogue&hide_border=true" />
+</p>
