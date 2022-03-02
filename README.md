@@ -1,5 +1,4 @@
-## Hi there 👋 I'm [Manish Ranjan][website] 😀
-![](https://visitor-badge.laobi.icu/badge?page_id=mandivson.mandivson) [![Github](https://img.shields.io/github/followers/mandivson?label=Followers&logo=Github)](https://github.com/mandivson)
+<h1 align="center">Hi! 👋 I'm Nirbhay Gaur</h1>
 
 <h3 align="center">A developer who loves to learn and create new things.
 
