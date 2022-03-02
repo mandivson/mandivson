@@ -46,6 +46,3 @@
 	<img src="https://github-readme-stats.vercel.app/api?username=mandivson&theme=dracula&hide_border=true" />
 </p>	
 	
-<p align="center">
-	<img src="https://activity-graph.herokuapp.com/graph?username=mandivson&theme=rogue&hide_border=true" />
-</p>
